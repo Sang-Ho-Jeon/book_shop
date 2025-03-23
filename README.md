@@ -10,10 +10,6 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/ae175f7e-408a-4094-9e14-0cb301174423" width="150" height="150" >
-<img src="https://github.com/user-attachments/assets/d8c3309a-2424-45b9-8ee1-caad89ef9c88" width="150" height="150" > 
-<img src="https://github.com/user-attachments/assets/ec940906-eb9b-40ce-9618-7fd9ee2d98e3" width="150" height="150" >
-
 <br>
 
 ### :runner: 프로젝트 기간 (14 days)
