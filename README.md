@@ -101,8 +101,7 @@ JavaScript   : 236 <br> </code></pre>
 
 ## ERD
 ### 53 tables
-<img src="https://github.com/user-attachments/assets/c12e0945-18b5-4fd3-b4eb-d7f020fdc66f" width="1000" alter=ERD>
-(url : https://www.erdcloud.com/d/97RR68D92DLjaKaZK)
+![소가연_ERD](https://github.com/user-attachments/assets/707a044f-c4b6-41c1-b8fa-bc5acdf1fa4b)
 
 <br>
 
